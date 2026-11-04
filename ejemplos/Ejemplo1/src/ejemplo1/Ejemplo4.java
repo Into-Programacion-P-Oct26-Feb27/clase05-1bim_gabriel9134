@@ -25,6 +25,11 @@ public class Ejemplo4 {
         promedio = entrada.nextDouble();
         
         entrada.nextLine();
+        /*
+        utilizamos la entrada nex line cuando saltamos entre una entrada nex
+        double a una entrada println o algo asi ajjajaj bueno tambien pilas 
+        repasando par ael exmanen
+        */
         
         String nombreEstudiante;
         System.out.println("Ingrese nombre de estudiante");
