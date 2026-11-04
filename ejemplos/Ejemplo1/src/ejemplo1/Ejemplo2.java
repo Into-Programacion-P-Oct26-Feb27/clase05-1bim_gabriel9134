@@ -22,7 +22,7 @@ public class Ejemplo2 {
         entrada.useLocale(Locale.US);
         double promedio;
         System.out.println("Ingrese la nota necesaria");
-        promedio = entrada.nextDouble();
+        promedio = entrada.nextDouble(); // 10
 
         if (promedio >= 7.5 && promedio <=10) { // Falso
             System.out.printf("Estudiante aprobado con un "
